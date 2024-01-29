@@ -1,0 +1,1 @@
+#nao preciso de falar, fiquei sem ideias do que fazer agora, va, final da ficha, ja podes descansar em paz
