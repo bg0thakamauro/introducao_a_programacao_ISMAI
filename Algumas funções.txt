@@ -1,0 +1,16 @@
+min = min(n1, n2) -------- verificar qual o menor
+max = max(n1, n2) -------- verificar qual o maior
+n1.endswith("eu") ---------- verificar se o fim da string tem algo que queriamos por exemplo bartolomeu tem EU.
+texto[::-1] ------- Inverte o texto
+
+for i in range(1, len(n)+1): ----------- Escreva o texto letra a letra adicionando mais uma letra a cada print até formar a palavra final
+    print(n[:i])
+
+sqrt ------- faz a raiz quadrada do numero
+pow ---------- faz a potencia do numero
+Sempre usar o import math!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+strip ---------- tira os espaços vazios numa string
+
+string = string.replace('v', 'b') ------------------- troca os v por b
+string.replace(substring, '') ------------------ retirar algo da palavra a escolha do utilizador
