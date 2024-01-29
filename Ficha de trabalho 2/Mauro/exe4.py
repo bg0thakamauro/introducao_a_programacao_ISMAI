@@ -8,7 +8,7 @@ if(ano % 4 == 0):
             print("nao é bisexto")
     else:
             print("é bisexto")
-    
+
 else:
     print("nao é bisexto")
 
