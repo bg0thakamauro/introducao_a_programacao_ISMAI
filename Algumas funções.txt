@@ -15,3 +15,4 @@ strip ---------- tira os espaços vazios numa string
 string = string.replace('v', 'b') ------------------- troca os v por b
 string.replace(substring, '') ------------------ retirar algo da palavra a escolha do utilizador
 vetor.append(valor) -------------registar o valor num vetor
+if valor in vetor ------------ verificar se esta no vetor
