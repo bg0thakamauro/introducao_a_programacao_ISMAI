@@ -6,8 +6,8 @@ palavras = frase.split()
 
 numerototal = 0
 i = 0
-for palavra in palavras:
-    if 'a' in palavra:
+for frase in palavras:
+    if 'a' in frase:
         numerototal += 1
 
 print(numerototal)

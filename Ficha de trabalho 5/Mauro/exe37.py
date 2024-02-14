@@ -1,15 +1,15 @@
+
+
 import random
-
-def baralharvogais(texto):
-    texto= texto.lower()
-
+def alterarvogais(string):
     vogais = 'aeiou'
-    for i in range (len(texto)-1):
-        if texto[i] == vogais:
-            texto1[i] = random.vogais[random]
-    return texto1
+    for x1 in string:
+        if x1.lower() == "a":
+            novastring = random.choice(vogais.replace("a"," "))
 
-texto1 = ""
-texto = input("Insira a palavra")
-final = baralharvogais(texto1)
-print(final)
+
+
+
+n1 = input("insira a palavra")
+n2 = alterarvogais(n1)
+print(n2)
